@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="Corporate Gifting">98f2451cc3709210eeefb71ed40131e3</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>All</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_1011970_corpor_0_employee</name>
+        <order/>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <require_confirmation>true</require_confirmation>
+        <roles/>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-18 06:58:56</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>8e434d1cc3709210eeefb71ed401316b</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>All Employees</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Corporate Gifting" source="x_1011970_corpor_0">fc4e6c00c33c1210eeefb71ed4013194</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Corporate Gifting">fc4e6c00c33c1210eeefb71ed4013194</sys_scope>
+        <sys_update_name>sys_app_module_8e434d1cc3709210eeefb71ed401316b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-18 07:46:50</sys_updated_on>
+        <timeline_page/>
+        <title>All Employees</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+</record_update>

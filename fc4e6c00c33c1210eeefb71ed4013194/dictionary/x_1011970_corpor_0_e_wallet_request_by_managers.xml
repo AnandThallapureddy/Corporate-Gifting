@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element db_object_id="7415c5ccc37c1210eeefb71ed40131ab" extends="task" label="E-Wallet Request by Managers" max_length="40" name="x_1011970_corpor_0_e_wallet_request_by_managers" type="collection">
+    <element audit="true" db_object_id="7415c5ccc37c1210eeefb71ed40131ab" extends="task" label="E-Wallet Request by Managers" max_length="40" name="x_1011970_corpor_0_e_wallet_request_by_managers" type="collection">
         <element label="Requested By (Manager)" max_length="32" name="requested_by_manager" reference="sys_user" type="reference"/>
         <element label="Requested For (Employee)" max_length="32" name="requested_for_employee" reference="sys_user" type="reference"/>
         <element choice="1" label="Request Status" max_length="40" name="request_status" type="choice">
